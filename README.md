@@ -80,7 +80,7 @@ You can call `plusoners` and `resharers` on a `GooglePlus::Activity` to get a cu
 
 ## Comments
 
-You can get comments for an acitivty, using its ID:
+You can get comments for an activity, using its ID:
 
     comment = GooglePlus::Comment.get(123)
 
